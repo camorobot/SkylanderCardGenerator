@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Enigma",
+        "img": "https://www.outcyders.net/images/skylanders/214/figurepicmid.png"
+    },
+    {
+        "name": "Short Cut",
+        "img": "https://www.outcyders.net/images/skylanders/55/figurepicmid.png"
+    },
+    {
+        "name": "Knight Mare",
+        "img": "https://www.outcyders.net/images/skylanders/27/figurepicmid.png"
+    },
+    {
+        "name": "Knight Light",
+        "img": "https://www.outcyders.net/images/skylanders/26/figurepicmid.png"
+    },
+    {
+        "name": "Thunderbolt",
+        "img": "https://www.outcyders.net/images/skylanders/215/figurepicmid.png"
+    },
+    {
+        "name": "Tuff Luck",
+        "img": "https://www.outcyders.net/images/skylanders/49/figurepicmid.png"
+    },
+    {
+        "name": "Blastermind",
+        "img": "https://www.outcyders.net/images/skylanders/43/figurepicmid.png"
+    },
+    {
+        "name": "Ka-Boom",
+        "img": "https://www.outcyders.net/images/skylanders/25/figurepicmid.png"
+    },
+    {
+        "name": "Lob-Star",
+        "img": "https://www.outcyders.net/images/skylanders/47/figurepicmid.png"
+    },
+    {
+        "name": "Bushwhack",
+        "img": "https://www.outcyders.net/images/skylanders/8/figurepicmid.png"
+    },
+    {
+        "name": "Head Rush",
+        "img": "https://www.outcyders.net/images/skylanders/7/figurepicmid.png"
+    },
+    {
+        "name": "Krypt King",
+        "img": "https://www.outcyders.net/images/skylanders/46/figurepicmid.png"
+    },
+    {
+        "name": "Wildfire",
+        "img": "https://www.outcyders.net/images/skylanders/39/figurepicmid.png"
+    },
+    {
+        "name": "Wallop",
+        "img": "https://www.outcyders.net/images/skylanders/36/figurepicmid.png"
+    },
+    {
+        "name": "Snap Shot",
+        "img": "https://www.outcyders.net/images/skylanders/31/figurepicmid.png"
+    },
+    {
+        "name": "Jawbreaker",
+        "img": "https://www.outcyders.net/images/skylanders/24/figurepicmid.png"
+    },
+    {
+        "name": "Gusto",
+        "img": "https://www.outcyders.net/images/skylanders/22/figurepicmid.png"
+    },
+    {
+        "name": "Gearshift",
+        "img": "https://www.outcyders.net/images/skylanders/20/figurepicmid.png"
+    },
+    {
+        "name": "Gnarly Barkley",
+        "img": "https://www.outcyders.net/images/skylanders/265/figurepicmid.png"
+    },
+    {
+        "name": "Whisper Elf",
+        "img": "https://www.outcyders.net/images/skylanders/38/figurepicmid.png"
+    },
+    {
+        "name": "Pet-Vac",
+        "img": "https://www.outcyders.net/images/skylanders/29/figurepicmid.png"
+    },
+    {
+        "name": "Breeze",
+        "img": "https://www.outcyders.net/images/skylanders/17/figurepicmid.png"
+    },
+    {
+        "name": "Barkley",
+        "img": "https://www.outcyders.net/images/skylanders/15/figurepicmid.png"
+    },
+    {
+        "name": "Power Punch Pet-Vac",
+        "img": "https://www.outcyders.net/images/skylanders/263/figurepicmid.png"
+    },
+    {
+        "name": "Eggsellent Weeruptor",
+        "img": "https://www.outcyders.net/images/skylanders/262/figurepicmid.png"
+    },
+    {
+        "name": "Weeruptor",
+        "img": "https://www.outcyders.net/images/skylanders/37/figurepicmid.png"
+    },
+    {
+        "name": "Thumpling",
+        "img": "https://www.outcyders.net/images/skylanders/34/figurepicmid.png"
+    },
+    {
+        "name": "Small Fry",
+        "img": "https://www.outcyders.net/images/skylanders/30/figurepicmid.png"
+    },
+    {
+        "name": "Gill Runt",
+        "img": "https://www.outcyders.net/images/skylanders/21/figurepicmid.png"
+    },
+    {
+        "name": "Trigger Snappy",
+        "img": "https://www.outcyders.net/images/skylanders/35/figurepicmid.png"
+    },
+    {
+        "name": "Terrabite",
+        "img": "https://www.outcyders.net/images/skylanders/33/figurepicmid.png"
+    },
+    {
+        "name": "Spry",
+        "img": "https://www.outcyders.net/images/skylanders/32/figurepicmid.png"
+    },
+    {
+        "name": "Mini Jini",
+        "img": "https://www.outcyders.net/images/skylanders/28/figurepicmid.png"
+    },
+    {
+        "name": "Hijinx",
+        "img": "https://www.outcyders.net/images/skylanders/23/figurepicmid.png"
+    },
+    {
+        "name": "Eye-Small",
+        "img": "https://www.outcyders.net/images/skylanders/19/figurepicmid.png"
+    },
+    {
+        "name": "Drobit",
+        "img": "https://www.outcyders.net/images/skylanders/18/figurepicmid.png"
+    },
+    {
+        "name": "Bop",
+        "img": "https://www.outcyders.net/images/skylanders/16/figurepicmid.png"
+    },
+    {
+        "name": "Flip Wreck",
+        "img": "https://www.outcyders.net/images/skylanders/213/figurepicmid.png"
+    },
+    {
+        "name": "Fling Kong",
+        "img": "https://www.outcyders.net/images/skylanders/210/figurepicmid.png"
+    },
+    {
+        "name": "Spotlight",
+        "img": "https://www.outcyders.net/images/skylanders/56/figurepicmid.png"
+    },
+    {
+        "name": "Deja Vu",
+        "img": "https://www.outcyders.net/images/skylanders/44/figurepicmid.png"
+    },
+    {
+        "name": "Blackout",
+        "img": "https://www.outcyders.net/images/skylanders/41/figurepicmid.png"
+    },
+    {
+        "name": "Echo",
+        "img": "https://www.outcyders.net/images/skylanders/212/figurepicmid.png"
+    },
+    {
+        "name": "Rocky Roll",
+        "img": "https://www.outcyders.net/images/skylanders/211/figurepicmid.png"
+    },
+    {
+        "name": "Trail Blazer",
+        "img": "https://www.outcyders.net/images/skylanders/58/figurepicmid.png"
+    },
+    {
+        "name": "Bat Spin",
+        "img": "https://www.outcyders.net/images/skylanders/57/figurepicmid.png"
+    },
+    {
+        "name": "Love Potion Pop Fizz",
+        "img": "https://www.outcyders.net/images/skylanders/54/figurepicmid.png"
+    },
+    {
+        "name": "High Five",
+        "img": "https://www.outcyders.net/images/skylanders/51/figurepicmid.png"
+    },
+    {
+        "name": "Cobra Cadabra",
+        "img": "https://www.outcyders.net/images/skylanders/50/figurepicmid.png"
+    },
+    {
+        "name": "Fizzy Frenzy Pop Fizz",
+        "img": "https://www.outcyders.net/images/skylanders/69/figurepicmid.png"
+    },
+    {
+        "name": "Hog Wild Fryno",
+        "img": "https://www.outcyders.net/images/skylanders/66/figurepicmid.png"
+    },
+    {
+        "name": "Full Blast Jet-Vac",
+        "img": "https://www.outcyders.net/images/skylanders/65/figurepicmid.png"
+    },
+    {
+        "name": "Fist Bump",
+        "img": "https://www.outcyders.net/images/skylanders/59/figurepicmid.png"
+    },
+    {
+        "name": "Tread Head",
+        "img": "https://www.outcyders.net/images/skylanders/48/figurepicmid.png"
+    },
+    {
+        "name": "Sure Shot Shroomboom",
+        "img": "https://www.outcyders.net/images/skylanders/67/figurepicmid.png"
+    },
+    {
+        "name": "Tidal Wave Gill Grunt(Series4)",
+        "img": "https://www.outcyders.net/images/skylanders/60/figurepicmid.png"
+    },
+    {
+        "name": "Funny Bone",
+        "img": "https://www.outcyders.net/images/skylanders/45/figurepicmid.png"
+    },
+    {
+        "name": "Blades",
+        "img": "https://www.outcyders.net/images/skylanders/42/figurepicmid.png"
+    },
+    {
+        "name": "Torch",
+        "img": "https://www.outcyders.net/images/skylanders/40/figurepicmid.png"
+    },
+    {
+        "name": "Dark Food Fight",
+        "img": "https://www.outcyders.net/images/skylanders/10/figurepicmid.png"
+    },
+    {
+        "name": "Chopper",
+        "img": "https://www.outcyders.net/images/skylanders/9/figurepicmid.png"
+    },
+    {
+        "name": "Food Fight",
+        "img": "https://www.outcyders.net/images/skylanders/6/figurepicmid.png"
+    },
+    {
+        "name": "Eon's Elite Gill Grunt",
+        "img": "https://www.outcyders.net/images/skylanders/259/figurepicmid.png"
+    },
+    {
+        "name": "Eon's Elite Eruptor",
+        "img": "https://www.outcyders.net/images/skylanders/258/figurepicmid.png"
+    },
+    {
+        "name": "Eon's Elite Terrafin",
+        "img": "https://www.outcyders.net/images/skylanders/217/figurepicmid.png"
+    },
+    {
+        "name": "Eon's Elite Stealth Elf",
+        "img": "https://www.outcyders.net/images/skylanders/216/figurepicmid.png"
+    },
+    {
+        "name": "Eon's Elite Trigger Happy",
+        "img": "https://www.outcyders.net/images/skylanders/79/figurepicmid.png"
+    },
+    {
+        "name": "Eon's Elite Whirlwind",
+        "img": "https://www.outcyders.net/images/skylanders/77/figurepicmid.png"
+    },
+    {
+        "name": "Eon's Elite Chop Chop",
+        "img": "https://www.outcyders.net/images/skylanders/75/figurepicmid.png"
+    },
+    {
+        "name": "Eon's Elite Spyro",
+        "img": "https://www.outcyders.net/images/skylanders/73/figurepicmid.png"
+    },
+    {
+        "name": "King Cobra Cadabra",
+        "img": "https://www.outcyders.net/images/skylanders/264/figurepicmid.png"
+    },
+    {
+        "name": "Nitro Head Rush",
+        "img": "https://www.outcyders.net/images/skylanders/261/figurepicmid.png"
+    },
+    {
+        "name": "Legendary Bushwhack",
+        "img": "https://www.outcyders.net/images/skylanders/260/figurepicmid.png"
+    },
+    {
+        "name": "Legendary Deja Vu",
+        "img": "https://www.outcyders.net/images/skylanders/71/figurepicmid.png"
+    },
+    {
+        "name": "Winterfest Lob-Star",
+        "img": "https://www.outcyders.net/images/skylanders/64/figurepicmid.png"
+    },
+    {
+        "name": "Legendary Blades",
+        "img": "https://www.outcyders.net/images/skylanders/63/figurepicmid.png"
+    },
+    {
+        "name": "Legendary Jawbreaker",
+        "img": "https://www.outcyders.net/images/skylanders/62/figurepicmid.png"
+    },
+    {
+        "name": "Nitro Krypt King",
+        "img": "https://www.outcyders.net/images/skylanders/61/figurepicmid.png"
+    },
+    {
+        "name": "Dark Wildfire",
+        "img": "https://www.outcyders.net/images/skylanders/13/figurepicmid.png"
+    },
+    {
+        "name": "Dark Snap Shot",
+        "img": "https://www.outcyders.net/images/skylanders/12/figurepicmid.png"
+    }
+]
