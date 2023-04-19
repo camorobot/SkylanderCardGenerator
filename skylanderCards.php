@@ -29,7 +29,7 @@
         height:8.56cm;
         width: 5.39cm;
         background: rgb(4,0,59);
-        background: linear-gradient(180deg, rgba(4,0,59,1) 17%, rgba(200,85,250,1) 100%);
+        background: linear-gradient(180deg, rgba(4,0,59,1) 17%, rgba(176,255,80,1) 100%);
         border-radius: 5px;
     }
     .skylanderImgContainer{
@@ -50,7 +50,7 @@
         position: relative;
         border-radius: 0px 0px 5px 5px;
         text-align: center;
-        background-color:rgba(228, 162, 250, 0.85);
+        background-color:rgba(207, 255, 181, 0.85);
         width: 5.39cm;
         padding: 5px 0px;
     }   
@@ -65,7 +65,7 @@
         $s4Aantal = 80;
         $s5Aantal = 70;
         $s6Aantal = 41;
-        for( $i = 0; $i < $s6Aantal; $i++){
+        for( $i = 0; $i < $s1Aantal; $i++){
             echo '<div class="card">
                         <div class="skylanderImgContainer">
                             <img src="" alt="" class="skylanderImg">
@@ -90,7 +90,7 @@
             rawFile.send(null);
         }
 
-        readTextFile("skylanderSerie/json/s6.json", function(text){
+        readTextFile("skylanderSerie/json/s1.json", function(text){
             let SKYLANDERID = 0
             var theImg = document.getElementsByClassName('skylanderImg');
             var data = JSON.parse(text);
